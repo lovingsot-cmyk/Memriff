@@ -1,4 +1,5 @@
 # memriff
+"This is Just an Example and not Cs2 Specific!"
 
 a lightweight windows memory hacking library for games.
 
